@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Brian Holmes",
+		"rank": "CDR",
+		"title": "Commanding Officer",
+		"bio": "This is the bio for Brian Holmes.",
+		"imageName": "COPic" 
+	},
+	{
+		"id": 2,
+        "name": "Greg Lembo",
+        "rank": "CDR",
+        "title": "Executive Officer",
+        "bio": "This is the bio for Greg Lembo.",
+        "imageName": "XOPic"
+    },
+	{
+		"id": 3,
+        "name": "Lloyd Stanford",
+        "rank": "CMC",
+        "title": "Command Master Chief",
+        "bio": "This is the bio for Lloyd Stanford.",
+        "imageName": "CMCPic"
+    }
+]
